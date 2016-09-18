@@ -1,0 +1,117 @@
+{
+  "hotelCode": "HOTEL1",
+  "rooms": [
+    {
+      "roomNumber": "100",
+      "roomTypeCode": "SSB",
+      "rates": [
+        {
+          "price": {
+            "currency": "GBP",
+            "net": 100,
+            "tax": 20.0,
+            "total": 120
+          }
+        }
+      ]
+    },
+    {
+      "roomNumber": "101",
+      "roomTypeCode": "DSB",
+      "rates": [
+        {
+          "price": {
+            "currency": "GBP",
+            "net": 120,
+            "tax": 24,
+            "total": 124
+          }
+        }
+      ]
+    },
+    {
+      "roomNumber": "102",
+      "roomTypeCode": "DSB",
+      "rates": [
+        {
+          "price": {
+            "currency": "GBP",
+            "net": 120,
+            "tax": 24,
+            "total": 124
+          }
+        }
+      ]
+    },
+    {
+      "roomNumber": "200",
+      "roomTypeCode": "EKB",
+      "rates": [
+        {
+          "price": {
+            "currency": "GBP",
+            "net": 200,
+            "tax": 40,
+            "total": 240
+          }
+        }
+      ]
+    },
+    {
+      "roomNumber": "201",
+      "roomTypeCode": "EKB",
+      "rates": [
+        {
+          "price": {
+            "currency": "GBP",
+            "net": 200,
+            "tax": 40,
+            "total": 240
+          }
+        }
+      ]
+    },
+    {
+      "roomNumber": "202",
+      "roomTypeCode": "JSB",
+      "rates": [
+        {
+          "price": {
+            "currency": "GBP",
+            "net": 300,
+            "tax": 60,
+            "total": 360
+          }
+        }
+      ]
+    },
+    {
+      "roomNumber": "203",
+      "roomTypeCode": "JHS",
+      "rates": [
+        {
+          "price": {
+            "currency": "GBP",
+            "net": 600,
+            "tax": 120,
+            "total": 720
+          }
+        }
+      ]
+    },
+    {
+      "roomNumber": "300",
+      "roomTypeCode": "SSB",
+      "rates": [
+        {
+          "price": {
+            "currency": "GBP",
+            "net": 100,
+            "tax": 20,
+            "total": 120
+          }
+        }
+      ]
+    }
+  ]
+}

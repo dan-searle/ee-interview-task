@@ -1,0 +1,103 @@
+{
+  "hotelCode": "HOTEL2",
+  "rooms": [
+    {
+      "roomNumber": "100",
+      "roomTypeCode": "SSB",
+      "rates": [
+        {
+          "price": {
+            "currency": "GBP",
+            "net": 110,
+            "tax": 22.0,
+            "total": 132
+          }
+        }
+      ]
+    },
+    {
+      "roomNumber": "101",
+      "roomTypeCode": "DSB",
+      "rates": [
+        {
+          "price": {
+            "currency": "GBP",
+            "net": 125,
+            "tax": 25,
+            "total": 150
+          }
+        }
+      ]
+    },
+    {
+      "roomNumber": "102",
+      "roomTypeCode": "DSB",
+      "rates": [
+        {
+          "price": {
+            "currency": "GBP",
+            "net": 125,
+            "tax": 25,
+            "total": 150
+          }
+        }
+      ]
+    },
+    {
+      "roomNumber": "200",
+      "roomTypeCode": "EKB",
+      "rates": [
+        {
+          "price": {
+            "currency": "GBP",
+            "net": 250,
+            "tax": 50,
+            "total": 300
+          }
+        }
+      ]
+    },
+    {
+      "roomNumber": "202",
+      "roomTypeCode": "JSB",
+      "rates": [
+        {
+          "price": {
+            "currency": "GBP",
+            "net": 350,
+            "tax": 70,
+            "total": 420
+          }
+        }
+      ]
+    },
+    {
+      "roomNumber": "300",
+      "roomTypeCode": "SSB",
+      "rates": [
+        {
+          "price": {
+            "currency": "GBP",
+            "net": 110,
+            "tax": 22,
+            "total": 132
+          }
+        }
+      ]
+    },
+    {
+      "roomNumber": "301",
+      "roomTypeCode": "SXD",
+      "rates": [
+        {
+          "price": {
+            "currency": "GBP",
+            "net": 500,
+            "tax": 100,
+            "total": 600
+          }
+        }
+      ]
+    }
+  ]
+}
